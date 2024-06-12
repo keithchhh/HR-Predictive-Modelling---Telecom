@@ -5,7 +5,7 @@ XGBoost shows the highest macro scores for precision, recall and f-1 at 97-98%, 
 
 The XGBoost model has 6 false positives and 13 false negatives in the test size of 30%, outperforming the other models.
 
-<img width="286" alt="image" src="https://github.com/keithchhh/Canonical-Take-Home-Test/assets/145700071/1eed91e3-558f-4398-b9fb-b669c91fb579">
+<img width="586" alt="image" src="https://github.com/keithchhh/Canonical-Take-Home-Test/assets/145700071/1eed91e3-558f-4398-b9fb-b669c91fb579">
 
 
 ## Objective 2: Develop strategies to reduce the current attrition rate.
